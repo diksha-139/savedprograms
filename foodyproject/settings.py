@@ -26,7 +26,7 @@ SECRET_KEY = 'c8frgkf7edsi8)0q-$32ui+1f17k7aih1ec%(4kdi79q03_ic6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['appfoody.herokuapp.com']
 
 
 # Application definition
